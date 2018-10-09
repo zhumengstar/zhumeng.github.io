@@ -3,11 +3,11 @@
   <title>Zhumeng</title>
   
   
-  <link href="tags/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://zhumengstar.github.io/tags/"/>
+  <link href="https://zhumengstar.github.io/"/>
   <updated>2018-10-09T16:32:55.293Z</updated>
-  <id>https://zhumengstar.github.io/tags/</id>
+  <id>https://zhumengstar.github.io/</id>
   
   <author>
     <name>Zhumeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zhumengstar.github.io/tags/2018/10/10/hello-world/"/>
-    <id>https://zhumengstar.github.io/tags/2018/10/10/hello-world/</id>
+    <link href="https://zhumengstar.github.io/2018/10/10/hello-world/"/>
+    <id>https://zhumengstar.github.io/2018/10/10/hello-world/</id>
     <published>2018-10-09T16:32:55.293Z</published>
     <updated>2018-10-09T16:32:55.293Z</updated>
     
