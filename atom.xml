@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zhumeng</title>
+  <title>����</title>
   
-  <subtitle>逐梦</subtitle>
+  <subtitle>����</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhumengstar.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://zhumengstar.github.io/</id>
   
   <author>
-    <name>Zhumeng</name>
+    <name>����</name>
     
   </author>
   
